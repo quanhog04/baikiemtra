@@ -1,0 +1,20 @@
+C:\Users\admin\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+C:\Users\admin\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\admin\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\admin\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\admin\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\admin\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\admin\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\FPT\Documents\Zalo Received Files\KiemTra\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
